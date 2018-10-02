@@ -1,1 +1,13 @@
-
+img {
+  display: block;
+  max-width:230px;
+  max-height:95px;
+  width: auto;
+  height: auto;
+}
+header{
+  font-size: 24px;
+}
+p{
+  font-size: 16px;
+}
